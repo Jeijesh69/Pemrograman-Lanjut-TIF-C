@@ -1,2 +1,2 @@
-# Pemrograman-Lanjut-TIF-C
-Mempermudah copy paste.
+# Pemrograman Lanjut TIF C
+Mempermudah copy paste soal ke dalam repo github.
