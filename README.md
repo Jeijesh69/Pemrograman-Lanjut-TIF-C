@@ -1,2 +1,2 @@
 # Pemrograman Lanjut TIF C
-Mempermudah copy paste soal ke dalam repo github.
+Mempermudah copy paste soal dari repo github.
